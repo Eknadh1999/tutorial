@@ -7,3 +7,5 @@ for i in range(5):
             print('',end="")
 
 print("\nEKNADH")
+
+print("\nlearning  python")
