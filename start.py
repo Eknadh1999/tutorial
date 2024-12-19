@@ -10,3 +10,4 @@ print("\nEKNADH")
 
 print("\nlearning  python")
 print("tata")
+print("hi")
